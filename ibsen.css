@@ -30,3 +30,5 @@ h5 {
 .q {
     font-family: Arial, Sans-serif;
 }
+table { border: dashed 3px red;
+border-collapse: separate;}

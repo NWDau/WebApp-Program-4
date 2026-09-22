@@ -32,13 +32,15 @@ h5 {
 }
 
 .table { border: dashed 3px rgb(128, 221, 212);
-border-collapse: separate;}
+    border-collapse: separate;
+    padding: 10px;
+    margin: 20px;
+}
 
 .table th {
     border: dashed 5 px red;
     text-align: center;
 }
-
 
 
 .table tr:nth-child(even){

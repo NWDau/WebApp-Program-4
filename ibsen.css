@@ -30,5 +30,16 @@ h5 {
 .q {
     font-family: Arial, Sans-serif;
 }
-table { border: dashed 3px red;
+table { border: dashed 3px rgb(128, 221, 212);
 border-collapse: separate;}
+
+th {
+    border: dashed 5 px red;
+    text-align: center;
+}
+
+
+
+tr:nth-child(even){
+    background-color: brown;
+}

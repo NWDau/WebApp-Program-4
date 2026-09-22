@@ -34,7 +34,7 @@ h5 {
 .table { border: dashed 3px rgb(128, 221, 212);
 border-collapse: separate;}
 
-.table {
+.table th {
     border: dashed 5 px red;
     text-align: center;
 }

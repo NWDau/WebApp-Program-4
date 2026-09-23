@@ -29,8 +29,7 @@ h5 {
     height: 20px;
     width: 100%;
     transition: all 0.4s ease-in-out; 
-    filter: blue(2px);
-    transform: scale(.5);
+    
 }
 
 .q {

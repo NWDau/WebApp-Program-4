@@ -25,6 +25,8 @@ h5 {
 
 .TESMAN {
     color: green;
+    transition: filter 0.3s ease;
+    text-shadow: 5px red;
 }
 
 .q {
@@ -47,6 +49,3 @@ h5 {
     background-color: brown;
 }
 
-.blurredText{
-    transition: filter 0.3s ease;
-}

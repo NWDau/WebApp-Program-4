@@ -46,3 +46,7 @@ h5 {
 .table tr:nth-child(even){
     background-color: brown;
 }
+
+.blurredText{
+    transition: filter 0.3s ease;
+}

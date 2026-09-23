@@ -24,8 +24,8 @@ h5 {
 }
 
 .TESMAN {
-    color: green;
-    text-shadow: 5px red;
+    color: rgb(104, 191, 104);
+    text-shadow: 5px rgb(224, 211, 211);
     height: 20px;
     width: 100%;
     transition: all 0.4s ease-in-out; 

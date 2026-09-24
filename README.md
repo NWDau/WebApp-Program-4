@@ -2,5 +2,5 @@
 ---
 Hosted at: (https://nwdau.github.io/WebApp-Program-4/)
 ---
-[htmlPage1](ibsen.html)
-[htmlPage2](ibsen2.html)
+[ibsen1](ibsen.html)
+[ibsen22](ibsen2.html)

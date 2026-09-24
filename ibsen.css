@@ -15,6 +15,10 @@ h5 {
     background-color: rgb(110, 110, 182);
 }
 
+.Directions {
+    background-color: grey;
+}
+
 .HEDDA {
     color: purple
 }
@@ -33,6 +37,7 @@ h5 {
 }
 .TESMAN:hover{
     filter: blur(4px);
+    text-shadow: 5px 5px 5px rgb(55, 80, 55)
 }
 
 .q {
@@ -46,12 +51,33 @@ h5 {
 }
 
 .table th {
-    border: dashed 5 px red;
+    border: dashed 5px red;
     text-align: center;
+}
+
+ul.navbar-horizontal{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+ul.navbar-horizontal li {
+    float: left; /* line up horizontally */
+    color: #af8383;
+    background-color: purple;
+}
+
+ul.navbar-horizontal a{
+    display:block;
+    padding:8px;
 }
 
 
 .table tr:nth-child(even){
     background-color: brown;
+}
+
+.icons{
+    text-align: center;
 }
 
